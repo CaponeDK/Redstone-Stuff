@@ -1,0 +1,20 @@
+[
+{
+  "modid": "redstuff",
+  "name": "Redstone-Stuff",
+  "description": "Redstone-Stuff!",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "WampireDK"
+  ],
+  "credits": "WampireDK!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
